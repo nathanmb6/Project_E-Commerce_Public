@@ -6,6 +6,9 @@ List Pertanyaan:
 2. pertanyaan 2 : Bagaimana sistem Pembayaran yang sering di lakukan Customer?
 
 # Data Visualization
+Menggunakan Matplotlib & Seaborn di notebook.ipynb
+
+# Dashboard
 Menggunakan Streamlit, Periksa Folder Dashboard/Dashboard.py 
 
 Cara Melihat Dashboard:
