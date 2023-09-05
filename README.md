@@ -1,16 +1,17 @@
 # Project_E-Commerce_Public
-
 # Exploratory Data Analysis (EDA)
-List Pertanyaan:
-1. pertanyaan 1 : Bagaimana Perkembangan Customer yang sering membeli produk berdasarkan State?
-2. pertanyaan 2 : Bagaimana sistem Pembayaran yang sering di lakukan Customer?
+List of Questions:
+
+1. Question 1: How has the development of customers who frequently purchase products evolved based on State?
+2. Question 2: What payment systems are commonly used by customers?
 
 # Data Visualization
-Menggunakan Matplotlib & Seaborn di notebook.ipynb
+Using Matplotlib & Seaborn in the notebook.ipynb.
 
 # Dashboard
-Menggunakan Streamlit, Periksa Folder Dashboard/Dashboard.py 
+Using Streamlit, check the Dashboard/Dashboard.py folder.
 
-Cara Melihat Dashboard:
-1. Buka Command Prompt / Buka Terminal di VSCode
-2. ketik "streamlit run Dashboard.py"
+How to View the Dashboard:
+
+1. Open Command Prompt / Open Terminal in VSCode.
+2. Type "streamlit run Dashboard.py".
